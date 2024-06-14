@@ -1,17 +1,21 @@
 {
-  "name": "node_mongoose",
+  "name": "mongoose_apis",
   "version": "1.0.0",
-  "description": "mongoose",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MohammadAmer56"
+    "url": "git+https://github.com/MohammadAmer56/NodeJS.git#mongoose_APIS"
   },
-  "author": "Aamer",
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadAmer56/NodeJS/issues"
+  },
+  "homepage": "https://github.com/MohammadAmer56/NodeJS/tree/mongoose_APIS#readme",
   "dependencies": {
     "express": "^4.19.2",
     "mocha": "^10.4.0",
